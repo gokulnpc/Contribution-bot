@@ -23,5 +23,4 @@ async function makeCommit() {
         console.error('Failed to commit and push changes:', error);
     }
 }
-
 makeCommit();
